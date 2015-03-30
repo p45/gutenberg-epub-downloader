@@ -2,21 +2,6 @@
 python script for downloads epub files from gutenberg.org based on search query; and automatically rename the filename (e.g. from "1342" into "Pride and Prejudice.epub).
 
 
-
-
-$$$$$$$$$$$$$$$$$         $$$$$        $$$$$    $$$$$$$$$$$$$$
-$$$$$$$$$$$$$$$$$$        $$$$$        $$$$$    $$$$$$$$$$$$$$
-$$$$$        $$$$$$       $$$$$        $$$$$    $$$$$
-$$$$$        $$$$$$       $$$$$        $$$$$    $$$$$
-$$$$$        $$$$$$       $$$$$        $$$$$    $$$$$$$$$$$$$$
-$$$$$$$$$$$$$$$$$$        $$$$$$$$$$$$$$$$$$    $$$$$$$$$$$$$$
-$$$$$$$$$$$$$$$$$         $$$$$$$$$$$$$$$$$$             $$$$$
-$$$$$                                  $$$$$             $$$$$
-$$$$$                                  $$$$$    $$$$$$$$$$$$$$
-$$$$$                                  $$$$$    $$$$$$$$$$$$$$
-
-
-
 Hi there..  I'm P45. 
 
 This is a python script for downloads epub files from gutenberg.org based on search query; and it will automatically rename the filename (e.g. from "1342" into "Pride and Prejudice.epub).
